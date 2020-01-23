@@ -1,0 +1,17 @@
+Country,Language[5],Place,Points
+Denmark,Danish,1,42
+Switzerland,French,2,40
+Italy,Italian,3,37
+United Kingdom,English,4,28
+France,French,5,25
+Monaco,French,5,25
+Austria,German English,7,16
+Luxembourg,French,8,13
+Germany,German,9,5
+Belgium,Dutch,10,4
+Yugoslavia,Serbo-Croatian,11,3
+Spain,Spanish,12,2
+Netherlands,Dutch,13,0
+Norway,Norwegian,13,0
+Finland,Finnish,13,0
+Sweden,Swedish,13,0

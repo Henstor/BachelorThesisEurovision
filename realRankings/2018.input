@@ -1,0 +1,46 @@
+Country[65],Language(s),Place[65],Points
+Israel,English[b],1,529
+Cyprus,English[c],2,436
+Austria,English,3,342
+Germany,English,4,340
+Italy,Italian,5,308
+Czech Republic,English,6,281
+Sweden,English,7,274
+Estonia,Italian,8,245
+Denmark,English[e],9,226
+Moldova,English,10,209
+Albania,Albanian,11,184
+Lithuania,English[a],12,181
+France,French,13,173
+Bulgaria,English,14,166
+Norway,English,15,144
+Ireland,English,16,136
+Ukraine,English,17,130
+Netherlands,English,18,121
+Serbia,Serbian[d],19,113
+Australia,English,20,99
+Hungary,Hungarian,21,93
+Slovenia,Slovene[g],22,64
+Spain,Spanish,23,61
+United Kingdom,English,24,48
+Finland,English,25,46
+Portugal,Portuguese,26,39
+Country[59],Language(s),Place[59],Points
+Azerbaijan,English,11,94
+Belgium,English,12,91
+Switzerland,English,13,86
+Greece,Greek,14,81
+Armenia,Armenian,15,79
+Belarus,English,16,65
+Croatia,English,17,63
+North Macedonia,English,18,24
+Iceland,English,19,15
+Country[61],Language(s),Place[61],Points
+Romania,English,11,107
+Latvia,English,12,106
+Malta,English,13,101
+Poland,English,14,81
+Russia,English,15,65
+Montenegro,Montenegrin,16,40
+San Marino,English,17,28
+Georgia,Georgian[f],18,24

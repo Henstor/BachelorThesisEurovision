@@ -1,0 +1,19 @@
+Country,Language[4],Place,Points
+Luxembourg,French,1,32
+United Kingdom,English,2,26
+France,French,3,22
+Austria,German,4,16
+Italy,Italian,5,15
+Ireland,English,6,11
+Denmark,Danish,7,10
+Switzerland,French,8,8
+Monaco,French,9,7
+Sweden,English,10,6
+Netherlands,Dutch,11,5
+Yugoslavia,Serbo-Croatian,12,2
+Norway,Norwegian,13,1
+Portugal,Portuguese,13,1
+Spain,Spanish,15,0
+Germany,German,15,0
+Belgium,Dutch,15,0
+Finland,Finnish,15,0

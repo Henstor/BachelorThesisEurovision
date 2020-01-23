@@ -1,0 +1,24 @@
+Country,Language[4],Place,Points
+Ireland,English,1,155
+United Kingdom,English,2,139
+Malta,English,3,123
+Italy,Italian,4,111
+Greece,Greek,5,94
+Israel,Hebrew,6,85
+Iceland,Icelandic,7,80
+France,French Antillean Creole,8,73
+Netherlands,Dutch,9,67
+Austria,German,10,63
+Cyprus,Greek,11,57
+Denmark,Danish,12,47
+Yugoslavia,Serbo-Croatian,13,44
+Spain,Spanish,14,37
+Switzerland,French,15,32
+Germany,German,16,27
+Portugal,Portuguese,17,26
+Norway,Norwegian,18,23
+Turkey,Turkish,19,17
+Belgium,French,20,11
+Luxembourg,Luxembourgish,21,10
+Sweden,Swedish,22,9
+Finland,Finnish,23,4

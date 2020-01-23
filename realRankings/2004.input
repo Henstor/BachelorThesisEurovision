@@ -1,0 +1,38 @@
+Country,Language[2],Place,Points
+Ukraine,English Ukrainian,1,280
+Serbia and Montenegro,Serbian,2,263
+Greece,English,3,252
+Turkey,English,4,195
+Cyprus,English,5,170
+Sweden,English,5,170
+Albania,English,7,106
+Germany,English Turkish,8,93
+Bosnia and Herzegovina,English,9,91
+Spain,Spanish,10,87
+Russia,English,11,67
+Malta,English,12,50
+Croatia,English,12,50
+North Macedonia,English,14,47
+France,French Spanish,15,40
+United Kingdom,English,16,29
+Poland,English Spanish,17,27
+Romania,English,18,18
+Iceland,English,19,16
+Netherlands,English,20,11
+Austria,German,21,9
+Belgium,English,22,7
+Ireland,English,22,7
+Norway,English,24,3
+Country,Language[2],Place,Points
+Israel,Hebrew English,11,57
+Estonia,Võro,11,57
+Denmark,English,13,56
+Finland,English,14,51
+Portugal,Portuguese,15,38
+Lithuania,English,16,26
+Latvia,Latvian,17,23
+Andorra,Catalan,18,12
+Belarus,English,19,10
+Monaco,French,19,10
+Slovenia,English,21,5
+Switzerland,English,22,0

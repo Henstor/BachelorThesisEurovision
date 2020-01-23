@@ -1,0 +1,46 @@
+Country,Language[25],Place,Points
+Russia,English,1,272
+Ukraine,English,2,230
+Greece,English,3,218
+Armenia,English Armenian,4,199
+Norway,English,5,182
+Serbia,Serbian,6,160
+Turkey,Turkish,7,138
+Azerbaijan,English,8,132
+Israel,Hebrew English,9,124
+Bosnia and Herzegovina,Bosnian,10,110
+Georgia,English,11,83
+Latvia,English,12,83
+Portugal,Portuguese,13,69
+Iceland,English,14,64
+Denmark,English,15,60
+Spain,Spanish English,16,55
+Albania,Albanian,17,55
+Sweden,English,18,47
+France,English French,19,47
+Romania,Romanian Italian,20,45
+Croatia,Croatian,21,44
+Finland,Finnish,22,35
+Germany,English,23,14
+Poland,English,24,14
+United Kingdom,English,25,14
+Country,Language[25],Place,Points
+Slovenia,Slovene,11,36
+Moldova,English,12,36
+Netherlands,English,13,27
+Montenegro,Montenegrin,14,23
+Ireland,English[a],15,22
+Andorra,English Catalan,16,22
+Belgium,Imaginary,17,16
+Estonia,Serbian German Finnish,18,8
+San Marino,Italian,19,5
+Country,Language[25],Place[26],Points
+North Macedonia,English,10,64
+Bulgaria,English,11,56
+Switzerland,Italian,13,47
+Malta,English[c],14,38
+Cyprus,Greek,15,36
+Lithuania,English,16,30
+Belarus,English[b],17,27
+Czech Republic,English,18,9
+Hungary,English Hungarian,19,6
