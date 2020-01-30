@@ -8,4 +8,11 @@ File 3: MusicExtractionFromSegments.ipynb
 File 4: OrdinalRegressionModel.ipynb
 
 Example included in example directory. Consists of 1 mp3 file of the performance of the Netherlands in 2019.
-Please, when using this, make sure the country names mentioned in the mp3 filenames are the same as the country names in the tables in the table directory.
+
+Because the music extraction can take a very long time, the resulting files are included in the root directory. When using this, please remeber to adjust the directory path in the OrdinalRegressionModel.ipynb file.
+
+When all the songs for the 2020 Eurovision Song Contest have been announced, I'll try to add those to this repository.
+
+(Please, when using this, make sure the country names mentioned in the mp3 filenames are the same as the country names in the tables in the table directory.)
+
+
