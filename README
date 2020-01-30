@@ -1,15 +1,26 @@
 The code of my computer science bachelor thesis 2019/2020.
 
-This is about Eurovision Song Contest.
+This is about the Eurovision Song Contest.
 
 File 1: MFCCFromMP3Files.ipynb
 File 2: MfccToSegments.ipynb
 File 3: MusicExtractionFromSegments.ipynb
 File 4: OrdinalRegressionModel.ipynb
 
+Packages and software needed:
+numpy
+sklearn
+h2o
+xldr
+json
+fileinput
+matplotlib
+pandas
+
+
 Example included in example directory. Consists of 1 mp3 file of the performance of the Netherlands in 2019.
 
-Because the music extraction can take a very long time, the resulting files are included in the root directory. When using this, please remeber to adjust the directory path in the OrdinalRegressionModel.ipynb file.
+Because the music extraction can take a very long time, the resulting files are included in the root directory. When using this, please remeber to adjust the directory path in the OrdinalRegressionModel.ipynb file. (This file is initialized to this repository)
 
 When all the songs for the 2020 Eurovision Song Contest have been announced, I'll try to add those to this repository.
 
